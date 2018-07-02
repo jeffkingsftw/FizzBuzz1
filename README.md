@@ -16,5 +16,10 @@ Installation instructions
 - Build the project with the Maven pom.xml file and run FizzBuzz1Test
 
 Program Guide
-- The program contains a FizzBuzz1 class which takes in 2 integers with its constructor.  The integers represent the range of the list for which the output is based on.  To generate the list, you can call the getOutputList() method to process the list and return a String representation.  You can also call setOutputList() and toString() if you want to generate the data and get the output separately.
-- The String replacement values are stored in the StringConstants class.  Updating the values here will update them in the output and the tests.  So you don't have to change the tests if you need to change the output.
+- The program contains a FizzBuzz1 class which takes in 2 integers with its constructor.  
+	- The integers represent the range of the list for which the output is based on.  
+	- To generate the list, you can call the getOutputList() method to process the list and return a String representation.  
+	- You can also call setOutputList() and toString() if you want to generate the data and get the output separately.
+	
+- The String replacement values are stored in the StringConstants class.  
+	- Updating the values here will update them in the output and the tests.  So you don't have to change the tests if you need to change the output.
